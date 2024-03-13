@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Mysql_c1" uuid="36cace7e-13be-4690-8ed7-368cf5c7054e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://190.1.185.111:3306/infomax</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Mysql_c2" uuid="ba118033-22c7-402e-b1e0-66acdd4634b7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://190.1.185.112:3306/infomax</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Mysql_c12" uuid="511187f2-e4e7-4fae-9733-b5a0d09cc780">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://190.1.150.204:3306/infomax</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Alti_m8" uuid="a480c92f-f7d9-49d9-9ef6-67e2b3b49d2a">
+      <driver-ref>e3fc45ec-c749-48f1-966f-021575075990</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>Altibase.jdbc.driver.AltibaseDriver</jdbc-driver>
+      <jdbc-url>jdbc:Altibase://190.1.100.218:20300/infomax</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Alti_m7" uuid="6d84f980-4bd7-48ca-b1a1-0486accc356b">
+      <driver-ref>e3fc45ec-c749-48f1-966f-021575075990</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>Altibase.jdbc.driver.AltibaseDriver</jdbc-driver>
+      <jdbc-url>jdbc:Altibase://190.1.100.217:20300/infomax</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Alti_m3" uuid="95f4b372-c0cc-48e3-a1db-9d91be8e72e2">
+      <driver-ref>e3fc45ec-c749-48f1-966f-021575075990</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>Altibase.jdbc.driver.AltibaseDriver</jdbc-driver>
+      <jdbc-url>jdbc:Altibase://190.1.100.213:20300/infomax</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Alti_m4" uuid="dc62130c-520f-4dca-b16d-9ffa59be3796">
+      <driver-ref>e3fc45ec-c749-48f1-966f-021575075990</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>Altibase.jdbc.driver.AltibaseDriver</jdbc-driver>
+      <jdbc-url>jdbc:Altibase://190.1.100.214:20300/infomax</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Alti_awsm4" uuid="ad914085-c1e6-4aba-98a5-a26d2f62efc6">
+      <driver-ref>e3fc45ec-c749-48f1-966f-021575075990</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>Altibase.jdbc.driver.AltibaseDriver</jdbc-driver>
+      <jdbc-url>jdbc:Altibase://172.31.100.104:20300/infomax</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Mysql_awsc1" uuid="fad1edc8-234e-4d1a-bde3-e59f87e01ded">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://infomax-chart.cqdnxu47bie7.ap-northeast-2.rds.amazonaws.com:3306/infomax</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
