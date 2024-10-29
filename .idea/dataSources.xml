@@ -64,5 +64,27 @@
       <jdbc-url>jdbc:mysql://infomax-chart.cqdnxu47bie7.ap-northeast-2.rds.amazonaws.com:3306/infomax</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="ifx_m12" uuid="9381f137-12ed-43db-a20b-6931a9f4dcb2">
+      <driver-ref>informix</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.informix.jdbc.IfxDriver</jdbc-driver>
+      <jdbc-url>jdbc:informix-sqli://172.27.255.2:15012/infomax:INFORMIXSERVER=m12;DB_LOCALE=en_US.819;NEWLOCALE=ko_kr,en_us;NEWCODESET=KSC5601,8859-1,819</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ifx_m5" uuid="9d4ecf6b-f525-4332-b7a5-ef1a1fa772e1">
+      <driver-ref>informix</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.informix.jdbc.IfxDriver</jdbc-driver>
+      <jdbc-url>jdbc:informix-sqli://190.1.100.215:15005/infomax:INFORMIXSERVER=m5;DB_LOCALE=en_US.819;NEWLOCALE=ko_kr,en_us;NEWCODESET=KSC5601,8859-1,819</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ifx_m6" uuid="35a8e33b-dc73-4164-93e1-219ba6464607">
+      <driver-ref>informix</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.informix.jdbc.IfxDriver</jdbc-driver>
+      <jdbc-url>jdbc:informix-sqli://190.1.100.216:15006/infomax:INFORMIXSERVER=m6;DB_LOCALE=en_US.819;NEWLOCALE=ko_kr,en_us;NEWCODESET=KSC5601,8859-1,819</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
